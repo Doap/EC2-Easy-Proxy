@@ -1,4 +1,4 @@
-# EC2 Easy Proxy
+# Doap Proxy Server
 ## Introduction
 This template allows AWS customers to launch a Squid server in arbitrary region without loggin in to EC2 servers nor e\
 xecuting any command, but putting the template to [AWS CloudFormation](http://aws.amazon.com/cloudformation/).
